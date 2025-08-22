@@ -8,5 +8,5 @@ kagglehub
 youtube-transcript-api==0.6.2
 openpyxl
 pytube
-torch
+torch==2.2.2+cpu
 torchinfo
