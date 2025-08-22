@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+ipykernel
+kagglehub
+youtube-transcript-api==0.6.2
+openpyxl
+pytube
+torch
+torchinfo
